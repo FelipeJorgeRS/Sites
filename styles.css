@@ -1,5 +1,5 @@
 body {
-background-color: aqua;
+background-color: rgb(147, 239, 211);
 font-family: Arial, sans-serif;
 }
 h1{
@@ -24,3 +24,23 @@ img{
           border-width: 10px;
           padding: 30px;
 }
+
+.titulos{
+          color: rgb(0, 119, 255);
+          font-family: 'Times New Roman', Times, serif;
+          font-style: italic;
+          font-weight: 500px;
+          font-size: 220%;
+          text-align: center;
+}
+.alinhar_vertical{
+          color: burlywood;
+          min-height: 10em;
+          display: table-cell;
+          vertical-align: middle;
+          font-style: italic;
+          font-weight: 500px;
+          font-size: 220%;
+}
+
+      
